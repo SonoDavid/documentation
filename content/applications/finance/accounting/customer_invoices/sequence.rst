@@ -60,7 +60,21 @@ Follow these steps to resequence invoice numbers:
 #. Set the :guilabel:`First New Sequence`.
 #. :guilabel:`Preview Modifications` and click :guilabel:`Confirm`.
 
-The first invoice using the new sequence appears in red in the :guilabel:`Customer Invoices` list.
-
 .. image:: sequence/invoice-sequencing.png
    :alt: Resequence options window
+
+.. note::
+   To indicate where the sequence change began, the first invoice in the new sequence is
+   highlighted in red in the :guilabel:`Customer Invoices` list. This visual marker is temporary
+   and will disappear automatically over time.
+
+.. tip::
+   Resequencing is not possible:
+
+   - When entries are before a lock date.
+   - When the sequence leads to a duplicate.
+   - When the range is invalid. For example, if the :guilabel:`Invoice Date` doesn't align with the
+     date in the new sequence, such as using a 2024 sequence (INV/2024/XXXXX) for an invoice dated
+     in 2025.
+
+   In these cases, a :guilabel:`Validation Error` message appears.

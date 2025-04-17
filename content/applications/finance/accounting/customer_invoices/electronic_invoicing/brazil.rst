@@ -4,11 +4,10 @@
 Odoo electronic invoicing in Brazil
 ===================================
 
-Odoo Invoicing is your trusted partner for efficient and legally compliant e-invoicing
-solutions, tailored to meet Brazil's regulatory standards. While we cover many key legal
-cases, we recommend verifying specific cases with an Odoo advisor to ensure full
-compliance with the requirements set by the `Secretaria da Fazenda (SEFAZ)
-<https://www.gov.br/receitafederal/pt-br>`_.
+Odoo Invoicing is your trusted partner for efficient and legally compliant e-invoicing solutions,
+tailored to meet Brazil's regulatory standards. While Odoo covers many key legal cases, it is
+recommended to verify specific cases with an Odoo advisor to ensure full compliance with the
+requirements set by the `Secretaria da Fazenda (SEFAZ) <https://www.gov.br/receitafederal/pt-br>`_.
 
 Legal framework for e-invoicing in Brazil
 =========================================

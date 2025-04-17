@@ -1,7 +1,25 @@
-=====
-Menus
-=====
+===================
+Headers and Footers
+===================
 
+Headers
+=======
+
+Headers are used to display elements such as logo, text, search bar, sign-in, social media link,
+logo, buttons, etc., at the top of every page.
+
+Modify the header design
+-------------------------
+
+To modify a header, click on :guilabel:`Edit` and then click on it. In the :guilabel:`Header`
+section of the website editor, the :guilabel:`Template` can be customized by selecting one of the
+options from the drop-down selection.
+
+How to hide header?
+-------------------------
+
+Menu
+====
 Menus are used to organize your website’s content and help visitors navigate through your web pages
 effectively. User-friendly and well-structured website menus also play a crucial role in improving
 :doc:`search engine rankings <seo>`.

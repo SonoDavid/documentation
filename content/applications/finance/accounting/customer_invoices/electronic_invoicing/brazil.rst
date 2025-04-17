@@ -21,7 +21,7 @@ integration with Avalara, include:
 - :abbr:`NFS-e (Nota Fiscal de Serviços Eletrônica)`: Issued for service-based transactions, with
   implementation varying by municipality.
 - :abbr:`NFC-e (Nota Fiscal de Consumidor Eletrônica)`: Used for end consumer transactions.
-- Integration with :abbr:`SEFAZ (Secretaria da Fazenda)`: We connect with Avalara to issue the
+- Integration with :abbr:`SEFAZ (Secretaria da Fazenda)`: Odoo connects with Avalara to issue the
   electronic invoices, which must be authorized by :abbr:`SEFAZ (Secretaria da Fazenda)` and
   issued with a unique authorization code (Autorização de Uso).
 

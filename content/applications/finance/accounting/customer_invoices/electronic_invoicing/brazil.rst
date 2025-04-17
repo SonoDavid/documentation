@@ -34,8 +34,8 @@ offering features designed to ensure compliance:
 - **Supported formats**: Odoo supports Brazil's authorized e-invoice formats, including :abbr:`NF-e
   (Nota Fiscal Eletrônica)` for goods and services, :abbr:`NFS-e
   (Nota Fiscal de Serviços Eletrônica)` customizable for municipal requirements, and :abbr:`NFC-e
-  (Nota Fiscal de Consumidor Eletrônica)` for end consumer transactions. We connect with Avalara to
-  issue these invoices and ensure they are compliant.
+  (Nota Fiscal de Consumidor Eletrônica)` for end consumer transactions. Odoo connects with Avalara
+  to issue these invoices and ensure they are compliant.
 - **Secure storage and retrieval**: Complying with Brazil's five-year storage requirement, Odoo
   offers tamper-proof archiving for easy retrieval during audits or inspections.
 - **Automatic tax calculation**: Odoo automates tax calculations for goods and services,

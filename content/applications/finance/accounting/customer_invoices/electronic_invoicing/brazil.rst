@@ -14,8 +14,8 @@ Legal framework for e-invoicing in Brazil
 =========================================
 
 In Brazil, e-invoicing is highly regulated and mandatory for most businesses to ensure tax
-compliance and transparency. The key regulations governing e-invoicing, which we currently support
-through integration with Avalara, include:
+compliance and transparency. The key regulations governing e-invoicing, which is supported through
+integration with Avalara, include:
 
 - :abbr:`NF-e (Nota Fiscal Eletrônica)`: A mandatory e-invoice for goods and services used in B2B
   transactions.

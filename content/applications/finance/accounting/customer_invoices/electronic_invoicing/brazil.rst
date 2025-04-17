@@ -39,7 +39,7 @@ offering features designed to ensure compliance:
   issue these invoices and ensure they are compliant.
 - **Secure storage and retrieval**: Complying with Brazil's five-year storage requirement, Odoo
   offers tamper-proof archiving for easy retrieval during audits or inspections.
-- **Automatic tax calculation**: Odoo automates tax calculations for goods and services
+- **Automatic tax calculation**: Odoo automates tax calculations for goods and services,
   ensuring compliance with regional tax rules.
 
 .. seealso::
